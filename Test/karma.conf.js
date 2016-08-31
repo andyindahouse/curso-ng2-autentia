@@ -18,7 +18,7 @@ module.exports = function(config) {
       loadFiles: [
         'build/test/**/*.spec.js'
       ],
-      serverFiles: [
+      serveFiles: [
         'build/app/**/*.js'
       ]
     },
